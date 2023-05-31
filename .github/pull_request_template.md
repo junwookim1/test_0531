@@ -1,3 +1,3 @@
 ## PR Checklist
-- [] Commit message
-- [] test
+- [ ] Commit message
+- [ ] test
